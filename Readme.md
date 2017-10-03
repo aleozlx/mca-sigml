@@ -2,6 +2,8 @@
 
 ## Introduction (9/5/2017)
 
+[Week1](M1/M1.ipynb)
+
 * Tools: python, pandas, numpy, sklearn, jupyter notebook
 * Randomization
 * Train/validate
@@ -12,6 +14,8 @@
 
 ## Intro to Matrix Analysis & Vectorization (9/19/2017)
 
+[Week2](M2/M2.ipynb)
+
 * Vector space
 * Inner product independent of coordinates
 * Different perspectives of matrix-vector product
@@ -21,6 +25,16 @@
 * GPU for data science
 
 ## Eigenanalysis (10/3/2017)
+
+[Week3](M3/M3.ipynb)
+
+* Pincipal component analysis (notebook walk-through)
+* PCA whiteboard
+    * Principle of Orthogonality
+    * Eigen equation from Lagrange multiplier
+    * Spectral theorem
+* Processing (notebook walk-through)
+* TBD...
 
 ## Neural Networks & Support Vector Machines (10/17/2017)
 

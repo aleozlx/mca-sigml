@@ -16,7 +16,7 @@
 * Inner product independent of coordinates
 * Different perspectives of matrix-vector product
 * Amdahl's law
-* Vectorization & messive parallelism
+* Vectorization & massive parallelism
 * Mandelbrot set example
 * GPU for data science
 

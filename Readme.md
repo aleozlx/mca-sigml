@@ -34,11 +34,23 @@
     * Eigen equation from Lagrange multiplier
     * Spectral theorem
 * Processing (notebook walk-through)
-* TBD...
+* Demo: DCNN
 
 ## Neural Networks & Support Vector Machines (10/17/2017)
 
-## Fuzzy Theory (10/31/2017)
+Week4
+
+* Neural Network terminologies
+* Demos with TenorFlow Playground
+* Universal approximation theorem
+* Backprop & optimization http://neuralnetworksanddeeplearning.com/chap2.html
+* Two start-of-the-art examples
+    * Multicontextual DCNN with auxiliary supervision
+    * Google Neural Translation
+* Linear/Non-linear SVM
+* Multi-class SVM
+
+## Graph Algorithms and Graphical Model (10/31/2017)
 
 ## Image Analysis (11/14/2017)
 

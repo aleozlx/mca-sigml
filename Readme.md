@@ -50,11 +50,19 @@ Week4
 * Linear/Non-linear SVM
 * Multi-class SVM
 
-## Graph Algorithms and Graphical Model (10/31/2017)
+## Happy Halloween ~~~(10/31/2017)~~~
 
-## Image Analysis (11/14/2017)
+## Graph Algorithms and Graphical Model (11/14/2017)
+
+Week5
+
+* Graph dataset: [Stanford Web Graph](https://snap.stanford.edu/data/web-Stanford.html)
+* Write efficient graph algorithm & data structure in Python
+    * Quick review of elementary graph algorithms
+* Markov Chains
+* PageRank algorithm
+    * Generate an efficient TensorFlow Graph (problem substructure)
+* Hidden Markov Model
+* Graph-based / spectral clustering
 
 ## Random Cool Demos... (12/5/2017)
-
-
-
